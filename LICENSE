@@ -1,201 +1,219 @@
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
+         MINICLIP SOFTWARE DEVELOPMENT KIT (“SDK”) LICENSE AGREEMENT
 
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+   BEFORE YOU (“YOU” OR “LICENSEE”) USE THE MINICLIP SDK, PLEASE READ ALL OF THE
+   TERMS AND CONDITIONS SET OUT IN THIS LICENSE AGREEMENT (“AGREEMENT”) CAREFULLY.
+   YOUR USE OF THE MINICLIP SDK IS SUBJECT TO THE TERMS AND CONDITIONS SET FORTH IN
+   THIS AGREEMENT. BY CLICKING THE “I AGREE” BUTTON OR BY USING ANY PART OF THE
+   MINICLIP SDK, YOU AGREE (ON BEHALF OF YOURSELF AND/OR YOUR COMPANY) TO THE TERMS
+   AND CONDITIONS OF THIS AGREEMENT, WHICH THEN COMMENCES WITH EFFECT AS A LEGAL
+   AGREEMENT BETWEEN YOU AND THE MINICLIP GROUP. IF YOU DO NOT OR CANNOT AGREE TO
+   THE TERMS AND CONDITIONS OF THIS AGREEMENT, YOU MUST NOT DOWNLOAD OR USE THE
+   MINICLIP SDK.
 
-   1. Definitions.
+   1.  Definitions.
 
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+      1.1 “Miniclip Group” means any subsidiary or holding company from time to
+      time of Miniclip SA.
 
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
+      1.2 “Miniclip SDK” includes the documentation, software, both source code
+      and object code, sample applications, emulator, tools, libraries, APIs,
+      data, and materials provided by the Miniclip Group to You for use in
+      connection with Your mobile application, and includes any updates that may
+      be provided by the Miniclip Group.
 
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
+      1.3 “Miniclip Services” by integrating the Miniclip SDK with your mobile
+      application, you will be able to use any Miniclip services (subject to
+      entering into a commercial agreement with Miniclip pertaining to such
+      services) which require the integration of the Miniclip SDK, which include,
+      without limitation, the selling of ad space inventory on your mobile
+      application to advertisers programmatically or any other relevant services.
 
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
+      1.4 “You” (or “Your”) shall mean an individual or legal entity exercising
+      permissions granted by this License.
 
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
+   2.  License Grant.
 
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
+      2.1 Subject to Your compliance with these terms and conditions of this
+      Agreement, the Miniclip Group hereby grants to You a royalty-free,
+      non-exclusive, non-transferable and worldwide license to download and use
+      the SDK for the sole purpose of connecting to and using the Miniclip
+      Services.
 
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
+   3.  Restrictions.
 
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
+      3.1 Except for the limited license granted to You herein, You agree that all
+      right, title and interest in and to the Miniclip SDK including the concepts
+      and technology inherent in them, trademarks, copyrights, patents, trade
+      secrets and other intellectual property rights, are, and at all times shall
+      remain, the sole and exclusive property of the Miniclip Group. Except to the
+      extent permitted under this Agreement or by applicable law, You shall not
+      (i) modify, reverse engineer or disassemble any portion of the Miniclip SDK;
+      (ii) lease, rent, copy, redistribute or sublicense the Miniclip SDK to third
+      party; or (iii) remove, efface or obscure any copyright notices, logos or
+      other proprietary notices or legends included in the Miniclip SDK. You may
+      not use any component part of the Miniclip SDK in any way independent from
+      the Miniclip SDK. You may not load or install any of the Miniclip SDK onto
+      any other devices, except on Your mobile application.
 
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
+      3.2 The Miniclip Group may extend, enhance, or otherwise modify the Miniclip
+      SDK at any time without notice. If updates are made available by the
+      Miniclip Group, the terms of this Agreement will govern such updates, unless
+      the update is accompanied by a separate license, in which case the terms of
+      that license will govern. The Miniclip Group is not obligated to provide any
+      maintenance, technical or other support for the Miniclip SDK. You
+      acknowledge that the Miniclip Group has no express or implied obligation to
+      announce or make available any updates to the Miniclip SDK.
 
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
+   4.  Use of the Miniclip SDK and compliance with laws.
 
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
+      4.1 Your application(s) must not (i) breach any applicable laws, regulations
+      or generally accepted practices or guidelines in the applicable
+      jurisdictions; (ii) contain any material, component or code which could
+      damage, destroy, unduly burden or unreasonably affect software, firmware,
+      hardware, data, systems, services, or networks; or (iii) disable, hack or
+      otherwise interfere with any authentication, content protection, digital
+      signing, digital rights management, security or verification mechanisms
+      implemented in or by the Miniclip Group and/or the Miniclip Services.
 
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
+      4.2 Your mobile application(s) must not breach any applicable laws,
+      regulations or generally accepted practices or guidelines in the applicable
+      jurisdictions or disable, unduly burden or unreasonably interfere with
+      software, firmware, hardware, data, systems, services, or networks.
 
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
+      4.3 You agree that You are solely liable for any breach of your obligations
+      under this Agreement or any applicable laws or regulations, and for the
+      consequences of any such breach.
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+   5.  DISCLAIMER OF WARRANTY.
 
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
+      5.1 THE MINICLIP SDK IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND. THE
+      MINICLIP GROUP DOES NOT WARRANT THAT THE USE OF THE MINICLIP SDK WILL NOT
+      INFRINGE ANY THIRD PARTY’S INTELLECTUAL PROPERTY RIGHTS. MINICLIP DOES NOT
+      WARRANT THAT THE MINICLIP SDK IS ERROR FREE AND MAKE NO WARRANTIES, EXPRESS
+      OR IMPLIED, WITH RESPECT TO THE MINICLIP SDK, INCLUDING BUT NOT LIMITED TO
+      ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR
+      AGAINST INFRINGEMENT, OR ANY EXPRESS OR IMPLIED WARRANTY ARISING OUT OF
+      TRADE USAGE OR OUT OF A COURSE OF DEALING OR COURSE OF PERFORMANCE. NO
+      INFORMATION OR ADVICE GIVEN BY THE MINICLIP GROUP OR ITS AGENTS, EMPLOYEES,
+      OR REPRESENTATIVES, WHETHER ORAL OR WRITTEN, SHALL CREATE ANY REPRESENTATION
+      OR WARRANTY.
 
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
+      5.2 LIMITATION OF LIABILITY TO THE EXTENT PERMITTED BY LAW, IN NO EVENT
+      SHALL THE MINICLIP GROUP BE LIABLE FOR PERSONAL INJURY OR ANY INCIDENTAL,
+      SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES WHATSOEVER, OR FOR LOSS OF
+      PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR FOR ANY PECUNIARY DAMAGES
+      OR LOSSES, ARISING OUT OF OR RELATED TO YOUR GRANT OF LICENSE HEREIN, OR
+      INABILITY TO USE THE MINICLIP SDK, THE PROVISION OF OR FAILURE TO PROVIDE
+      SUPPORT OR OTHER SERVICES, INFORMATION, SOFTWARE, AND RELATED CONTENT
+      THROUGH THE SOFTWARE OR OTHERWISE ARISING OUT OF THE USE OF THE MINICLIP
+      SDK, OR OTHERWISE UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS
+      AGREEMENT, HOWEVER CAUSED, REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT,
+      TORT OR OTHERWISE) AND EVEN IF THE MINICLIP GROUP HAS BEEN ADVISED OF THE
+      POSSIBILITY OF SUCH DAMAGES.
 
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
+   6.  Indemnification.
 
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
+      6.1 You agree to indemnify, defend and hold harmless the Miniclip Group from
+      any claims, damages, liabilities, losses, costs, suits or expenditures
+      incurred by the Miniclip Group, as a result of any infringement or alleged
+      infringement of intellectual property rights of a third party caused by or
+      arising out of, resulting from, or related to failure to comply with the
+      terms of this Agreement, including but not limited to (1) unauthorized use
+      or disclosure of SDK, and (2) use of SDK in combination with software,
+      hardware, systems, or other items not provided by the Miniclip Group.
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
+   7.  Confidentiality.
 
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
+      7.1 You acknowledge and agree that the Miniclip SDK contains valuable trade
+      secrets and Confidential Information of the Miniclip Group. “Confidential
+      Information” includes, but is not limited to, any confidential or sensitive
+      proprietary information about the Miniclip Group’s business methods, plans,
+      relationships, pricing, processes, policies, non-public financial
+      information, and these terms and conditions. Accordingly, You agree to
+      maintain the Miniclip SDK in confidence and except as expressly provided in
+      Section 2, You (i) will not disclose or provide access thereto to any
+      person, or (ii) use the Miniclip SDK for any purpose not expressly
+      authorized hereby, or permit or authorize any other person to do so. You
+      acknowledge and agree that any violation of this clause would constitute a
+      material breach of this Agreement and is grounds for immediate termination.
+      The provisions of this clause shall survive the expiration or termination of
+      the Agreement.
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
+      7.2 The restriction herein shall not apply to the extent that such
+      information is in the public domain or hereafter falls into the public
+      domain through no fault of You. Any combination of trade secrets and
+      information of the Miniclip Group that forms part of the Miniclip SDK shall
+      not be deemed to be public merely because individual parts of the Miniclip
+      SDK are in the public domain, unless the combination itself is in the public
+      domain.
 
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
+   8.  Term and Termination.
 
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
+      8.1 Term. This Agreement shall remain in full force and effect until
+      terminated by You or the Miniclip Group in accordance with the terms of this
+      Agreement.
 
-   END OF TERMS AND CONDITIONS
+      8.2 Termination. You may terminate this Agreement simply by ceasing Your use
+      of the Miniclip SDK. The Miniclip Group may terminate this Agreement (i) at
+      any time for any or no reason upon 14 day’s written notice to you or (ii)
+      immediately upon written notice to You if You have materially breached this
+      Agreement.
 
-   APPENDIX: How to apply the Apache License to your work.
+      8.3 Effect of Termination. Upon termination of this Agreement: (a) all
+      license rights granted in this Agreement will terminate; (b) You shall
+      promptly stop the distribution of the Miniclip SDK and destroy all
+      electronic copies of the Miniclip SDK and/or return the Miniclip SDK to the
+      Miniclip Group. Sections 3, 4, 5, 6, 7, 8.3 and General terms below shall
+      survive the expiration or termination of this Agreement.
 
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
+   9.  General.
 
-   Copyright 2023 Miniclip © SA 
+      9.1 Assignment and other dealings. You may not assign, novate, transfer,
+      mortgage, charge, subcontract or delegate any of Your rights or obligations
+      under this Agreement, without the Miniclip Group’s prior written consent.
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+      9.2 No Partnership. Each party shall be and act as an independent contractor
+      and not as partner, joint venturer, or agent of the other. No party shall
+      have any right to obligate or bind any other party.
 
-       http://www.apache.org/licenses/LICENSE-2.0
+      9.3 No waiver and Variation. The failure or delay by the Miniclip Group or
+      You to insist upon strict performance of any of the provisions contained in
+      this Agreement shall in no way constitute a waiver of its rights as set
+      forth in this Agreement, at law or in equity, or a waiver of any other
+      provisions or subsequent default by the other party in the performance or
+      compliance with any of the terms and conditions set forth in this Agreement.
+      This Agreement may be modified by the Miniclip Group without notice.
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
+      9.4 Severance. If any provision or part-provision of the Agreement is or
+      becomes invalid, illegal or unenforceable, it shall be deemed modified to
+      the minimum extent necessary to make it valid, legal and enforceable. If
+      such modification is not possible, the relevant provision or part-provision
+      shall be deemed deleted. Any modification to or deletion of a provision or
+      part-provision under this clause 9.4 shall not affect the validity and
+      enforceability of the rest of the Agreement.
+
+      9.5 Third party rights. The Agreement does not give rise to any rights under
+      the Contracts (Rights of Third Parties) Act 1999 to enforce any terms of the
+      Agreement. The rights of the parties to rescind or vary the Agreement are
+      not subject to the consent of any other person.
+
+      9.6 Export Compliance. You are responsible for applying for and obtaining
+      all export and import licenses and/or authorizations related to the Miniclip
+      SDK or applications, including without limitation all such licenses and
+      authorizations required by any and all governmental bodies and/or regulatory
+      agency.
+
+      9.7 Force majeure. Neither party shall be in breach of the Agreement nor
+      liable for delay in performing, or failure to perform, any of its
+      obligations under the Agreement if such delay or failure result from events,
+      circumstances or causes beyond its reasonable control.
+
+      9.8 Entire Agreement. This Agreement contains the entire agreement of You
+      and the Miniclip Group with respect to its subject matter and supersedes all
+      existing agreements and all other oral, written or other communications
+      between the You and the Miniclip Group concerning this subject matter.
+
+      9.9 Governing Law and Jurisdiction. This Agreement shall be governed by and
+      construed in accordance with the laws of England and Wales. Each party
+      agrees to submit to the personal and exclusive jurisdiction of the courts of
+      England.

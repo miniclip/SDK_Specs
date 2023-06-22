@@ -18,4 +18,4 @@ To do.
 
 ## License 
 
-To do.
+[Miniclip Software Development Kit (“SDK”) License Agreement](/LICENSE)
