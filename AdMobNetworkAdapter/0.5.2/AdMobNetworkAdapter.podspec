@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
     spec.name                  = 'AdMobNetworkAdapter'
     spec.version               = '0.5.2'
-    spec.license               = { :type => 'Private' }
+    spec.license               = { :type => 'CUSTOM', :file => 'LICENSE' }
     spec.homepage              = 'https://stash.miniclip.com/projects/SDK/repos/ulam-ios-admob-adapter/'
     spec.source                = { :http => "https://miniclip.jfrog.io/artifactory/sdk-cocoapods-release-local/AdMobNetworkAdapter/AdMobNetworkAdapter-#{spec.version}.tar.gz" }
     spec.authors               = { 'SDK ULAM team' => 'ulam-team@miniclip.com' }
