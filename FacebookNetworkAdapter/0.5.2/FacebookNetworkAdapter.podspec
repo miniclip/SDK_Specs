@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
     spec.version               = '0.5.2'
     spec.license               = { :type => 'CUSTOM', :file => 'LICENSE' }
     spec.homepage              = 'https://stash.miniclip.com/projects/SDK/repos/ulam-ios-facebook-adapter/'
-    spec.source                = { :http => "https://miniclip.jfrog.io/artifactory/sdk-cocoapods-dev-local/FacebookNetworkAdapter/FacebookNetworkAdapter-#{spec.version}.tar.gz" }
+    spec.source                = { :http => "https://miniclip.jfrog.io/artifactory/sdk-cocoapods-release-local/FacebookNetworkAdapter/FacebookNetworkAdapter-#{spec.version}.tar.gz" }
     spec.authors               = { 'SDK ULAM team' => 'ulam-team@miniclip.com' }
     spec.summary               = 'FacebookNetworkAdapter is an adapter for the Facebook ad network'
     spec.vendored_frameworks   = 'FacebookNetworkAdapter.xcframework'
