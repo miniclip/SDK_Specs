@@ -11,5 +11,5 @@ Pod::Spec.new do |spec|
     spec.static_framework      = true
     spec.ios.deployment_target = '11.0'
     spec.dependency 'Google-Mobile-Ads-SDK', '10.3.0'
-    spec.dependency 'ULAM', '~> 0.5'
+    spec.dependency 'ULAM', '>= 0.5', '< 0.6'
   end
