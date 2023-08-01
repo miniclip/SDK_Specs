@@ -5,7 +5,6 @@ Pod::Spec.new do |spec|
     spec.homepage              = 'https://stash.miniclip.com/projects/SDK/repos/ulam-ios-ironsource-adapter/'
     spec.source                = { :http => "https://miniclip.jfrog.io/artifactory/sdk-cocoapods-release-local/IronSourceNetworkAdapter/IronSourceNetworkAdapter-#{spec.version}.tar.gz" }
     spec.authors               = { 'SDK ULAM team' => 'ulam-team@miniclip.com' }
-    spec.authors               = { 'SDK ULAM team' => 'ulam-team@miniclip.com' }
     spec.summary               = 'IronSourceNetworkAdapter is an adapter for the IronSource ad network'
     spec.vendored_frameworks   = 'IronSourceNetworkAdapter.xcframework'
     spec.platform              = :ios
