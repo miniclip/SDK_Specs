@@ -1,0 +1,3 @@
+dependencies:
+  BidMachine: "implementation 'com.applovin.mediation:bidmachine-adapter:+'"
+  Chartboost: "implementation 'com.applovin.mediation:chartboost-adapter:+'"
