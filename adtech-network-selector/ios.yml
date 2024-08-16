@@ -1,15 +1,15 @@
-dependencies:
-  AppLovinMediation: "1.2.0.1"  
-  AppLovinMediationBidMachineAdapter: "2.7.0.0.0"
-  AppLovinMediationChartboostAdapter: "9.7.0.0"
-  AppLovinMediationFyberAdapter: "8.2.8.0"
-  AppLovinMediationGoogleAdManagerAdapter: "11.5.0.0"
-  AppLovinMediationGoogleAdapter: "11.5.0.0"
-  AppLovinMediationHyprMXAdapter: "6.4.0.0.0"
-  AppLovinMediationInMobiAdapter: "10.7.2.0"
-  AppLovinMediationIronSourceAdapter: "8.1.0.0.0"
-  AppLovinMediationMintegralAdapter: "7.6.6.0.0"
-  AppLovinMediationMobileFuseAdapter: "1.7.4.0"
-  AppLovinMediationUnityAdsAdapter: "4.11.3.2"
-  AppLovinMediationVungleAdapter: "7.3.2.1"
-  AppLovinMediationFacebookAdapter: "6.15.0.0"
+networks:
+  AdMob: true
+  BidMachine: true
+  ChartBoost: true
+  DigitalTurbine: true
+  Facebook: true
+  GoogleAdManager: true
+  HyprMX: true
+  InMobi: true
+  InMobiCustom: true
+  IronSource: true
+  Mintegral: true
+  MobileFuse: true
+  UnityAds: true
+  Vungle: true
