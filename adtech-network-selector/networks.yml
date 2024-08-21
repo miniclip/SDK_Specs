@@ -7,7 +7,6 @@ networks:
   GoogleAdManager: true
   HyprMX: true
   InMobi: true
-  InMobiCustom: true
   IronSource: true
   Mintegral: true
   MobileFuse: true
