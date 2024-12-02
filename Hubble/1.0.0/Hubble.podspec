@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name = 'Hubble-STAGING'
+  spec.name = 'Hubble'
   # This version is automatically generated based on the marketing version in the SDK settings file.
   spec.version = '1.0.0'
   spec.license               = { :type => 'CUSTOM', :file => 'LICENSE' }
