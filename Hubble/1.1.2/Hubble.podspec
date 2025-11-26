@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   # This version is automatically generated based on the marketing version in the SDK settings file.
   spec.version = '1.1.2'
   spec.license               = { :type => 'CUSTOM', :file => 'LICENSE' }
-  spec.homepage              = 'https://github.com/miniclip/hubble-ios-sdk'
+  spec.homepage              = 'https://stash.miniclip.com/projects/SDK/repos/hubble-ios-sdk/'
   spec.source                = { :http => "https://miniclip.jfrog.io/artifactory/sdk-cocoapods-release-local/Hubble/Hubble-#{spec.version}.tar.gz" }
   spec.authors               = { 'SDK team' => 'sdkteam@miniclip.com' }
   spec.summary               = 'Hubble - Future painless data'
