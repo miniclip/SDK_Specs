@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   spec.license                = { :type => 'CUSTOM', :file => 'LICENSE' }
   spec.source                 = { :http => "https://miniclip.jfrog.io/artifactory/sdk-cocoapods-release-local/OneRing/OneRing-#{spec.version}.tar.gz" }
   spec.summary                = 'Shared modules for SDK Engineering projects'
-  spec.homepage               = 'https://github.com/miniclip/one-ring-ios'
+  spec.homepage               = 'https://stash.miniclip.com/scm/sdk/one-ring-ios.git'
   spec.authors                = { 'SDK team' => 'sdk.engineering@miniclip.com' }
   spec.summary                = 'OneRing SDK is an SDK for shared codebase'
   spec.description            = <<-DESC
