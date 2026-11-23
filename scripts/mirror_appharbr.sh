@@ -58,7 +58,18 @@ curl_auth() {
 deploy() {
   local file=$1 url=$2 sum existing
   sum=$(sha256 "$file")
-  existing=$(curl -sfI "$url" | awk -F': ' 'tolower($1)=="x-checksum-sha256" {print $2}' | tr -d '\r' || true)
+  local headers="$WORK/deploy.headers" status
+  status=$(curl -sS -I -D "$headers" -o /dev/null -w '%{http_code}' "$url") || {
+    echo "  REFUSED: unable to check whether $url exists" >&2; return 1;
+  }
+  case "$status" in
+    200)
+      existing=$(awk -F': ' 'tolower($1)=="x-checksum-sha256" {print $2}' "$headers" | tr -d '\r')
+      [ -n "$existing" ] || { echo "  REFUSED: no SHA-256 checksum returned for $url" >&2; return 1; }
+      ;;
+    404) existing="" ;;
+    *) echo "  REFUSED: could not check $url (HTTP $status)" >&2; return 1 ;;
+  esac
   if [ -n "$existing" ]; then
     [ "$existing" = "$sum" ] && { echo "  already published, identical: $url"; return 0; }
     echo "  REFUSED: $url already exists with sha256 $existing (local $sum)" >&2; return 1
